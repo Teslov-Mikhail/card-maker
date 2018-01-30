@@ -1,0 +1,30 @@
+[
+	{
+		"name": "Parry",
+		"image": "parry.png",
+		"desc": "(AttackBlock - Parry) Stops one damaging Offensive card used on you by another creature.",
+		"reqs": "Equipped: (Weapon - Any)",
+		"time": "0"
+	},
+	{
+		"name": "Block",
+		"image": "shield.jpg",
+		"desc": "(AttackBlock - Block) Stops one damaging Offensive Card used on you by another creature. Delays your turn by 1.",
+		"reqs": "Equipped: (Shield)",
+		"time": "1"
+	},
+	{
+		"name": "Dodge",
+		"image": "dodge.jpg",
+		"desc": "(Dodge) Negates the effect of one Offensive Card, allows the Player to move to an adjacent tile.",
+		"reqs": "",
+		"time": "1"
+	},
+	{
+		"name": "Counterattack",
+		"image": "FILENAME HERE",
+		"desc": "(Counterattack) Stops one attack card used on you by another creature, and allows you to instantly use an Offensive Card on the attacker. Pushes your Player token upwards by 2, regardless of your used card.",
+		"reqs": "",
+		"time": "3"
+	}
+]

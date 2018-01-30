@@ -1,0 +1,37 @@
+[
+	{
+		"name": "Attack",
+		"image": "FILENAME HERE",
+		"desc": "(Attack) Perform a basic attack with your weapon.",
+		"reqs": "",
+		"time": "3"
+	},
+	{
+		"name": "Heavy Attack",
+		"image": "FILENAME HERE",
+		"desc": "(Attack, Dmg +3, ToHit -1) Perfom a heavy attack with your weapon.",
+		"reqs": "",
+		"time": "5"
+	},
+	{
+		"name": "Quick Attack",
+		"image": "FILENAME HERE",
+		"desc": "(Attack, Dmg -2, ToHit -1) Perfom a quick attack with your weapon.",
+		"reqs": "",
+		"time": "2"
+	},
+	{
+		"name": "Precision Attack",
+		"image": "FILENAME HERE",
+		"desc": "(Attack, ToHit +5) Perfom a precise attack with your weapon.",
+		"reqs": "",
+		"time": "4"
+	},
+	{
+		"name": "Combo Strike",
+		"image": "FILENAME HERE",
+		"desc": "(Start Combo) Allows you to perform any amount of Offensive Cards you currently have in your possession. Your Time Token is bumped up by the amount of played cards this way, or by the amount of time on the most time-consuming attack card that was used, whichever's greater. ",
+		"reqs": "",
+		"time": "X"
+	}
+]
